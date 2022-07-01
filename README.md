@@ -8,7 +8,7 @@ a brief (one sentence) description of your project
  - Classification using a clustering model to see if I can classify foods based on their nutrition profiles.
  
 a link to the data source
- - https://fdc.nal.usda.gov/
+ - https://www.ars.usda.gov/ARSUserFiles/80400530/apps/2017-2018%20FNDDS%20At%20A%20Glance%20-%20FNDDS%20Nutrient%20Values.xlsx
  
 a link to your trello board.
  - https://trello.com/b/Fp62Bo21/food-for-thought
