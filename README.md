@@ -1,4 +1,4 @@
-# USDA Macronutrient Analysis Using Clustering and Regression: Food for Thought
+# USDA Macronutrient Profile Analysis Using Clustering and Regression: Food for Thought
 
 
 ##### Reasoning for this project:
