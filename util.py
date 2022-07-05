@@ -15,7 +15,7 @@ def metrics(df):
 
 def get_numbers(df):
     '''
-    Returns the number of instances of each different value for every column
+    Returns the number of instances of unique values in descending order and the number of non-nulls for every column
     '''    
     for column in df.columns:
         print(column)
