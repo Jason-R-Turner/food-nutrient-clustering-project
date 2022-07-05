@@ -1,6 +1,5 @@
 # USDA Macronutrient Analysis Using Clustering and Regression: Food for Thought
 
-![]("https://depositphotos.com/208925156/stock-illustration-big-number-foods-various-categories.html")
 
 ##### Reasoning for this project:
 - To see if it's possible to classify food based solely on its macronutrients
