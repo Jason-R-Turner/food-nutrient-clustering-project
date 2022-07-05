@@ -4,4 +4,4 @@ env.py
 .ipynb_checkpoints/
 __pycache__
 *.csv
-Supporting docs/.dir
+supporting_docs
