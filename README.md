@@ -72,8 +72,8 @@ Target variable
 --------------------
 
 ### Data Dictionary:
-| Module Functions        | Definitions                                             |
-| ------------------------|:----------------------------------------------------:|
+| Module Functions        | Definitions                                          |
+| ------------------------|:-----------------------------------------------------|
 | get_food_data           | Creates datafram from FNDDS excel file               |
 | first_row_to_col_header | Returns a dataframe with first row as column headers |
 | drop_cols               | Drops columns with unwanted variables                |
@@ -88,7 +88,7 @@ Target variable
 | get_numbers             | Returns descending order of total unique value counts|
 
 | Dataframe Columns         | Definitions                                          
-| --------------------------|:----------------------------------------------------:
+| --------------------------|:----------------------------------------------------|
 | Food code                 | Individual USDA number identifying each food
 | Main food description     | Individual name for describing each food 
 | WWEIA Category description| Category name for describing groups of food
