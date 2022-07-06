@@ -72,7 +72,7 @@ Target variable
 --------------------
 
 ### Data Dictionary:
-| Function Names          | Docstrings                                             |
+| Module Functions        | Definitions                                             |
 | ------------------------|:----------------------------------------------------:|
 | get_food_data           | Creates datafram from FNDDS excel file               |
 | first_row_to_col_header | Returns a dataframe with first row as column headers |
@@ -87,8 +87,8 @@ Target variable
 | metrics                 | Gives number of nulls, rows, columns, and description|
 | get_numbers             | Returns descending order of total unique value counts|
 
-| Column Names              | Meanings                                             |
-| --------------------------|:----------------------------------------------------:|
+| Dataframe Columns         | Definitions                                          
+| --------------------------|:----------------------------------------------------:
 | Food code                 | Individual USDA number identifying each food
 | Main food description     | Individual name for describing each food 
 | WWEIA Category description| Category name for describing groups of food
@@ -100,7 +100,7 @@ Target variable
 | Total Fat (g)             | Total fat by weight in grams
 | Water\n(g)                | Water in grams
 | cluster                   | Numbered K-Means model clusters
-|                           | 
+                         
 
 ## Project Reproduction
 [ ] Read the README.md file
