@@ -1,11 +1,5 @@
 # USDA Macronutrient Profile Analysis Using Clustering and Regression: Food for Thought
 
-
-##### Reasoning for this project:
-- To see if it's possible to classify food based solely on its macronutrients
-- To see if the major food groups that we classify by other means neatly matches a nutrient profile
-- To see if any other patterns emerge from amongst the data
-
 ### Project Goals
  - To construct a ML classification model that uses clustering to identify different groups of food based on the distribution of their main nutritional components.
  - To analyze the strength of the relationships between the different major variable categories
@@ -14,20 +8,20 @@
 --------------------
 
 ## Project Summary
-a brief description of your project
  - Classification using a clustering model to see if I can classify foods based on their nutrition profiles.
+ - To see if it's possible to classify food based solely on its macronutrients
+ - To see if the major food groups that we classify by other means neatly matches a nutrient profile
+ - To see if any other patterns emerge from amongst the data
  
 a link to the data source
  - https://www.ars.usda.gov/ARSUserFiles/80400530/apps/2017-2018%20FNDDS%20At%20A%20Glance%20-%20FNDDS%20Nutrient%20Values.xlsx
  
-a link to my trello board.
  - https://trello.com/b/Fp62Bo21/food-for-thought
 
-my target variable
+Target variable
  - Food groupings
  
-what one observation represents
- - An unique individual food item with its nutrition information
+ - An observation represents a unique individual food item with its nutrition information
  
 --------------------
 
@@ -79,7 +73,7 @@ what one observation represents
 
 ### Data Dictionary:
 | Variable Names          | Meanings                                             |
-| --------------------    |:-----------------------------------------------     :|
+| ------------------------|:----------------------------------------------------:|
 | get_food_data           | Creates datafram from FNDDS excel file               |
 | first_row_to_col_header | Returns a dataframe with first row as column headers |
 | drop_cols               | Drops columns with unwanted variables                |
