@@ -4,5 +4,6 @@ env.py
 .ipynb_checkpoints/
 __pycache__
 *.csv
+*.xlsx
 supporting_docs
 Feedback.ipynb
